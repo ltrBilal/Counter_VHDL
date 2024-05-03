@@ -12,4 +12,4 @@ Il convient de noter que les résultats attendus sont générés automatiquement
 Outils nécessaires
 
     Python 
-    [GHDL (GNU Hardware Description Language)](https://github.com/ghdl/ghdl) : Un outil open-source pour la simulation et la synthèse du VHDL.
+    [GHDL](https://github.com/ghdl/ghdl) : Un outil open-source pour la simulation et la synthèse du VHDL.
